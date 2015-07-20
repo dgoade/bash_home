@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/david.goade/Documents/git/atlassian_tool_configs/ansible/roles/crowd/tasks/upgrade.yml'
+let g:netrw_dirhist_2='/Users/david.goade/Documents/git/atlassian_tool_configs/cfengine/pushfiles/rh-crowd.x60.com'
+let g:netrw_dirhist_3='/Users/david.goade/Documents/git/atlassian_tool_configs/ansible/roles/crowd/meta'
+let g:netrw_dirhist_4='/Users/david.goade/Documents/git/atlassian_tool_configs/ansible/roles/atlassian-application/meta'
+let g:netrw_dirhist_5='/Users/david.goade/Documents/git/atlassian_tool_configs/ansible/roles/atlassian-application'
