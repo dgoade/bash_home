@@ -9,8 +9,7 @@ export PATH="/drives/c/Program Files (x86)/Git/bin":$PATH
 
 # User specific aliases and functions
 
-#alias vi='vim -u ~/.vim/vimrc_win'
-alias vi='vim -u ~/.vim_dcg'
+alias vi='vim' 
 set -o vi
 PS1='\u@\h:\w \$ '
 PS2='> '
